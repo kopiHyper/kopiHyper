@@ -1,4 +1,7 @@
-
+ <h1 align="center">
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+ </h1>
 
 ## Hey! 👋
 
