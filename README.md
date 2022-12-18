@@ -1,5 +1,5 @@
 
- <img align="right" alt="name" width="400" src="[kopiHyper/name.gif](https://imgur.com/a/CIXarJK)">
+ <img align="right" alt="name" width="400" src="https://imgur.com/a/CIXarJK">
 
 
 ## Hey! 👋
