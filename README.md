@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
-<!--
-**kopiHyper/kopiHyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
 
-Here are some ideas to get you started:
+I'm Oktawian, a 21 years Web and App developer from Poland. Still learning 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 👨‍💻 JavaScript
+- ⚙️ React
+- 👁️ SASS, CSS, Tailwind CSS
+- 💽 MySQL, SQL, MongoDB
+
+## Contact
+
+- [@martonlederer](https://twitter.com/Oktawia24763347) on Twitter
+- [@_oktawian_](https://www.instagram.com/_oktawian_/) on Instagram
+- [kopiHyper#9742](./) on Discord
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kopiHyper&theme=dark)](https://git.io/streak-stats)
