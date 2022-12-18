@@ -1,6 +1,5 @@
  <h1 align="center">
- <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+ <img align="right" alt="name" width="400" src="kopiHyper/name.gif">
  </h1>
 
 ## Hey! 👋
