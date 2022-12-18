@@ -1,6 +1,6 @@
- <h1 align="center">
+
  <img align="right" alt="name" width="400" src="kopiHyper/name.gif">
- </h1>
+
 
 ## Hey! 👋
 
