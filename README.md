@@ -15,7 +15,7 @@ I'm Oktawian, a 21 years Web and App developer from Poland. Still learning 🧠
 
 ## Contact
 
-- [@Oktawia24763347](https://twitter.com/Oktawia24763347) on Twitter
+- [@Oktawian](https://www.linkedin.com/in/oktawian-kopica-403282259) on LinkedIn
 - [@_oktawian_](https://www.instagram.com/_oktawian_/) on Instagram
 - [kopiHyper#9742](./) on Discord
 
