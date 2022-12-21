@@ -11,9 +11,9 @@ I have been interested in the IT industry for years, I develop myself as a progr
 ## Skills
 
 - 👨‍💻 JavaScript
-- ⚙️ React
-- 👁️ SASS, CSS, Tailwind CSS
-- 💽 Soon...
+- ⚙️ React in progress...⏳
+- 👁️ SASS, CSS, (Tailwind CSS in progress...⏳)
+- 💽 Soon...⏳
 
 ## Contact
 
