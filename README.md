@@ -6,7 +6,7 @@
 
 I'm Oktawian, a 21 years old Web and App developer from Poland. Still learning 🧠
 
-I have been interested in the IT industry for years, I develop myself as a programmer and this is what I associate my future with. I learn quickly, I am hungry for knowledge and it gives me a lot of pleasure. I graduated from a technical college with an IT profile. In my free time, I am passionate about fishing and regularly train soccer.
+I have been interested in the IT industry for years, I develop myself as a programmer and this is what I associate my future with. I learn quickly, I am hungry for knowledge and it gives me a lot of pleasure. I graduated from a technical college with an IT profile in Poland. In my free time, I am passionate about fishing and regularly train soccer.
 
 ## Skills
 
