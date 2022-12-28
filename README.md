@@ -10,7 +10,7 @@ I have been interested in the IT industry for years, I develop myself as a progr
 
 ## Skills
 
-- 👨‍💻 HTML5, DOM, JavaScript
+- 👨‍💻 HTML5, DOM, CSS, JavaScript
 - ⚙️ Flutter & Dart in progress...⏳
 - 💽 Soon...⏳
 
