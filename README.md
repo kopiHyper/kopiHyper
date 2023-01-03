@@ -12,7 +12,7 @@ I have been interested in the IT industry for years, I develop myself as a progr
 
 - 👨‍💻 HTML5, DOM, CSS, JavaScript
 - ⚙️ Flutter & Dart in progress...⏳
-- 💽 Firebase in progess....⏳
+- 💽 Firebase in progess...⏳
 
 ## Contact
 
