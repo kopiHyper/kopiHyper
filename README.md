@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="name.gif" alt="Marton Lederer" />
+  <img src="BanerK.png" alt="Marton Lederer" />
 </h1>
 
 ## Hey! 👋
