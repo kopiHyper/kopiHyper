@@ -11,8 +11,8 @@ I have been interested in the IT industry for years, I develop myself as a progr
 ## Skills
 
 - 👨‍💻 Flutter & Dart
-- 💽 Firebase
-- ⚙️ Git, MVVM in progess...⏳, Provider in progess...⏳
+- 💽 Firebase in progess...⏳
+- ⚙️  Provider in progess...⏳
 
 
 ## Contact
