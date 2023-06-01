@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="BanerK.png" alt="Marton Lederer" />
-</h1>
+</h1> -->
 
 ## Hey! 👋
 
