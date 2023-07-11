@@ -14,4 +14,3 @@ I have been interested in the IT industry for years, I develop myself as a progr
 - [@_oktawian_](https://www.instagram.com/_oktawian_/) on Instagram
 - [kopiHyper#9742](./) on Discord
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kopiHyper&theme=dark)](https://git.io/streak-stats)
