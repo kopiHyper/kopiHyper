@@ -7,7 +7,7 @@
 # Oktawian - Informatyk z pasją do AI i nowych technologii
 
 ## O mnie
-Cześć! Nazywam się Oktawian, mam 23 lata i ukończyłem technikum o profilu informatycznym. Od zawsze interesowały mnie najnowsze osiągnięcia technologiczne, a zwłaszcza sztuczna inteligencja i jej zastosowania. Poza tym, fascynuje mnie rozwój nowoczesnych technologii i ich wpływ na przyszłość. 
+Cześć! Nazywam się Oktawian, mam 23 lata i ukończyłem technikum o profilu informatycznym. Od zawsze interesowały mnie najnowsze osiągnięcia technologiczne, a zwłaszcza sztuczna inteligencja i jej zastosowania. Poza tym, fascynuje mnie rozwój nowoczesnych technologii i ich wpływ na przyszłość. Poza godzinami przed monitorem hobbistycznie zajmuję się wędkarstwem, piłką nożną i ślędzę nowiniki motoryzacyjne. 
 
 ## Umiejętności techniczne
 - **Stack MERN**: Uczę się programowania w stacku MERN (MongoDB, Express.js, React, Node.js) od roku. Tworzę aplikacje webowe, które są skalowalne i responsywne.
