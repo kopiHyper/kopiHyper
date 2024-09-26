@@ -2,10 +2,6 @@
 
 ## Hey! 👋👦
 
-# Oktawian - Informatyk z pasją do AI i nowych technologii
-##
-# 󠁧Oktawian - Developer with a passion for AI and new technologies 🚀
-
 ## 🚀 O mnie / About Me 👨‍💻
 Cześć! Nazywam się Oktawian, mam 23 lata i ukończyłem technikum o profilu informatycznym. Od zawsze interesowały mnie najnowsze osiągnięcia technologiczne, a zwłaszcza sztuczna inteligencja i jej zastosowania. Poza tym, fascynuje mnie rozwój nowoczesnych technologii i ich wpływ na przyszłość. Poza godzinami przed monitorem hobbistycznie zajmuję się wędkarstwem, piłką nożną i ślędzę nowiniki motoryzacyjne. 
 ##
