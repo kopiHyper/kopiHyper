@@ -5,7 +5,7 @@
 ## 🚀 O mnie / About Me 👨‍💻
 Cześć! Nazywam się Oktawian, mam 24 lata i ukończyłem technikum o profilu informatycznym. Od zawsze interesowały mnie najnowsze osiągnięcia technologiczne, a zwłaszcza sztuczna inteligencja i jej zastosowania. Poza tym, fascynuje mnie rozwój nowoczesnych technologii i ich wpływ na przyszłość. Poza godzinami przed monitorem hobbistycznie zajmuję się wędkarstwem, piłką nożną i ślędzę nowiniki motoryzacyjne. 
 ##
-Hi! My name is Oktawian, I'm 23 years old, and I graduated from a technical school with a focus on IT. I've always been fascinated by cutting-edge technologies, especially artificial intelligence and its applications. I love exploring how new innovations shape the future.
+Hi! My name is Oktawian, I'm 24 years old, and I graduated from a technical school with a focus on IT. I've always been fascinated by cutting-edge technologies, especially artificial intelligence and its applications. I love exploring how new innovations shape the future.
 
 ## 🛠 Umiejętności techniczne / Technical Skills 💡
 - **Stack MERN**: Uczę się programowania w stacku MERN (MongoDB, Express.js, React, Node.js) od roku. Tworzę aplikacje webowe, które są skalowalne i responsywne.
