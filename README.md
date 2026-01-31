@@ -1,32 +1,61 @@
-
-
 ## Hey! 👋👦
-
 ## 🚀 O mnie / About Me 👨‍💻
-Cześć! Nazywam się Oktawian, mam 24 lata i ukończyłem technikum o profilu informatycznym. Od zawsze interesowały mnie najnowsze osiągnięcia technologiczne, a zwłaszcza sztuczna inteligencja i jej zastosowania. Poza tym, fascynuje mnie rozwój nowoczesnych technologii i ich wpływ na przyszłość. Poza godzinami przed monitorem hobbistycznie zajmuję się wędkarstwem, piłką nożną i ślędzę nowiniki motoryzacyjne. 
+
+Cześć! Nazywam się Oktawian, mam 25 lat i ukończyłem technikum o profilu informatycznym.
+Od października 2025 studiuję Informatykę na WSB, gdzie rozwijam się głównie w kierunku programowania i rozwiązań chmurowych.
+
+Od zawsze interesują mnie nowe technologie oraz sztuczna inteligencja – szczególnie ich praktyczne zastosowanie w realnych systemach i aplikacjach.
+Aktualnie skupiam się na tworzeniu nowoczesnych aplikacji webowych i systemów biznesowych.
+
+Poza programowaniem moją największą pasją stała się jazda motocyklem 🏍️, która daje mi reset głowy i solidną dawkę adrenaliny.
 ##
-Hi! My name is Oktawian, I'm 24 years old, and I graduated from a technical school with a focus on IT. I've always been fascinated by cutting-edge technologies, especially artificial intelligence and its applications. I love exploring how new innovations shape the future.
+Hi! My name is Oktawian, I'm 25 years old, and I graduated from a technical IT school.
+Since October 2025, I have been studying Computer Science at WSB, focusing on programming and cloud-oriented development.
+
+I’m passionate about modern technologies and artificial intelligence, especially real-world applications in business systems and web platforms.
+Currently, I focus on building modern web applications and backend systems.
+
+Outside of coding, my biggest passion is motorcycle riding 🏍️, which gives me freedom, focus, and balance.
 
 ## 🛠 Umiejętności techniczne / Technical Skills 💡
-- **Stack MERN**: Uczę się programowania w stacku MERN (MongoDB, Express.js, React, Node.js) od roku. Tworzę aplikacje webowe, które są skalowalne i responsywne.
-- **JavaScript / TypeScript**: Moje główne narzędzie pracy. Znam go dobrze zarówno w kontekście backendu, jak i frontendu.
-- **Git**: Używam Gita do kontroli wersji moich projektów.
-- **AI**: Zajmuję się podstawami sztucznej inteligencji, poznaję teorie i narzędzia związane z uczeniem maszynowym. Aktualnie eksploruję możliwości modeli AI oraz ich potencjalne zastosowania w mojej nauce i pracy.
+
+- **C# / .NET:** Mój główny stack technologiczny. Tworzę backendy, logikę biznesową oraz API.
+
+- **Blazor (WebAssembly / Server):** Buduję nowoczesne aplikacje webowe w ekosystemie .NET.
+
+- **Cloud & Backend-first approach:** Projektuję systemy z myślą o skalowalności i dalszej integracji z AI.
+
+- **JavaScript / TypeScript:** Dobra znajomość – wykorzystuję tam, gdzie ma to sens.
+
+- **Git:** Kontrola wersji i praca z repozytoriami.
 ##
-- **MERN Stack**: I have been learning the MERN stack (MongoDB, Express.js, React, Node.js) for a year. I build scalable and responsive web applications.
-- **JavaScript / TypeScript**: My primary programming languages. I am comfortable using them for both backend and frontend development.
-- **Git**: I use Git for version control of my projects.
-- **AI**: I'm currently learning the fundamentals of AI, including machine learning concepts and tools. I explore AI models and their potential applications.
+- **C# / .NET:** My main technology stack. I build APIs, business logic, and backend systems.
+
+- **Blazor (WebAssembly / Server):** Developing modern web applications in the .NET ecosystem.
+
+- **Cloud & Backend-first approach:** Designing scalable systems with future AI integration in mind.
+
+- **JavaScript / TypeScript:** Solid knowledge, used where appropriate.
+
+- **Git:** Version control and repository management.
+
 
 ## 🧠 Zainteresowania / Interests 🌐
-- **Sztuczna inteligencja (AI)**: Dopiero zaczynam naukę AI i odkrywam jej możliwości. Skupiam się na rozwijaniu wiedzy na jej temat, aby móc wykorzystywać AI w codziennej pracy, nauce programowania oraz własnym rozwoju.
-- **Nowe technologie**: Śledzę rozwój nowych frameworków, bibliotek oraz narzędzi, aby być na bieżąco z postępem technologicznym.
+
+- **Sztuczna inteligencja (AI):** Posiadam wiedzę z zakresu AI i potrafię wykorzystywać modele oraz narzędzia AI w praktycznych zastosowaniach i własnych aplikacjach.
+
+- **Nowoczesne systemy i aplikacje:** Web, cloud, systemy ERP i narzędzia biznesowe.
+
+- **Nowe technologie:** Frameworki, narzędzia i trendy w IT.
 ##
-- **Artificial Intelligence (AI)**: I'm just beginning to learn AI and discovering its potential. My focus is on improving my knowledge to apply AI in my work, programming, and personal development.
-- **New Technologies**: I stay up-to-date with the latest frameworks, libraries, and tools to remain on the cutting edge of technology.
+- **Artificial Intelligence (AI):** I have knowledge of AI and can practically use AI models and tools in my own applications and projects.
+
+- **Modern systems & applications:** Web, cloud, ERP, and business tools.
+
+- **New technologies:** Frameworks, tools, and trends in IT.
 
 ## 📧 Kontakt / Contact 📬
-Jeśli chcesz się ze mną skontaktować, zapraszam do napisania wiadomości na GitHubie lub poprzez e-mail.
-##
-Feel free to reach out to me via GitHub or email if you'd like to get in touch.
 
+Jeśli chcesz się ze mną skontaktować — napisz do mnie przez GitHub lub e-mail.
+##
+Feel free to reach out via GitHub or email.
